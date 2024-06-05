@@ -1,3 +1,22 @@
 body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
     background-color: pink;
+}
+
+header {
+    background-color: #f19dab;
+    color: #fff;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.cavalo {
+    li{
+        color:blue;
+    }
 }
