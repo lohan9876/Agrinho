@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+
+header {
+    background-color: #f19dab;
+    color: #fff;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.leo {
+    background-color:pink
+
+}
+
+.leoImg {
+    width: 28rem;
+    height: 23rem;
+}
+.ana {
+    background-color:pink;
+    flex-direction: column;
+}
+
+.anaImg {
+    width: 28rem;
+    height: 23rem;
+}
